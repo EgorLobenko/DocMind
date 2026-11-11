@@ -4,9 +4,13 @@
 # Python cache
 __pycache__/
 *.py[cod]
+# Pytest cache
+.pytest_cache/
 
 # Environment variables
 .env
 
 # macOS
 .DS_Store
+
+data/
